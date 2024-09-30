@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+width: 700px;
+margin-left: 50px;
+background: rgba(255, 255, 255, 0.1);
+backdrop-filter: blur(20px);
+padding: 50px;
+max-width: 500px;
+border: 1px solid rgba(255, 255, 255, 0.1); 
+border-radius: 20px;
+transform: translate(-90px,70px);
+z-index: 9; */
